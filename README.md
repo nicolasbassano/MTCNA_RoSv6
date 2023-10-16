@@ -1,6 +1,6 @@
 # MTCNA_RoSv6
 
-Labs for the Network Berg's MTCNA YT Course.
+EVCE-NGH format labs for the Network Berg's MTCNA YT Course.
 
 The full course can be found in the following link:
 
