@@ -22,6 +22,8 @@ Access Credentials
 User: admin
 Pass: 123456
 
+NOTE: if 123456 doesn't work it means that the pass is blank.
+
 I will be adding the rest as I go through them.
 
 Hope you find them useful.
