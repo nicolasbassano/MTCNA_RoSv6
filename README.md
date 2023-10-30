@@ -22,6 +22,11 @@ Access Credentials
 User: admin
 Pass: 123456
 
+OBS!!! If the credentials aren't working for you just use the defaults. 
+
+User: admin
+Pass: blank
+
 NOTE: if 123456 doesn't work it means that the pass is blank.
 
 I will be adding the rest as I go through them.
